@@ -1,0 +1,19 @@
+{
+  "name": "mon-premier-cours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@ssh.git.codingame.com:cg985373/mon-premier-cours.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "mocha": "*",
+    "should": ">= 0.0.1"
+  }
+}
