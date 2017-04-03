@@ -1,4 +1,4 @@
-var toUpper = require('./uppercase.js');
+var toUpper = require('../uppercase.js');
 var assert = require('assert');
 it('should return HELLO', function() {
 	assert.equal('HELLO', toUpper('hello'));

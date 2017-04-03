@@ -4,7 +4,7 @@
   "description": "",
   "main": "uppercase.js",
   "scripts": {
-    "test": "node_modules/mocha/bin/mocha test.js --reporter list"
+    "test": "node_modules/mocha/bin/mocha ./tests/test.js --reporter list"
   },
   "author": "",
   "license": "UNLICENSED",
